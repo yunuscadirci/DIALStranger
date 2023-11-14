@@ -1,2 +1,2 @@
 # DIALStranger
-details about DIAL protocol vulnarabilities
+details about DIAL protocol vulnerabilities
