@@ -24,3 +24,25 @@ We are not fully secure because
 - Even we dont know local IP, we can spray with ajax 
 ## DIAL is a local protocol
 Absolutely no. Milions of TV's are open to Internet and by the nature of protocol, those TV's can be exploited by the hackers. They can be used for propaganda and profit
+
+# Tools
+## DIAL Scanner
+Under this repository, you can find DIALScanner solution. It sends M-SEARCH SSDP Request and DIAL devices answer. Also it automatically creates a test URL
+![image](https://github.com/yunuscadirci/DIALStranger/assets/7267858/daa1c0d5-b9a1-48b1-83b2-7925306096d1)
+
+## DIAL CORS Tester
+You can visit http://tester.dialstranger.com/DialStranger.html  (dont use https) to test against DIAL CORS vulnerabilities. It has some presets for port and URI. If you dont know your DIAL ports and URI, use DIAL Scanner to find
+
+
+# DIAL Port and Endpoints
+Please share your screenshot to make this list richer
+
+|Vendor|Port|URI|
+|---|---|---|
+|LG|36866|/apps/|
+|Xbox|10247|/apps/|
+|Philips|56789|/apps/|
+|Vestel|56791|/apps/|
+|Samsung|8001|/ws/apps/|
+|Freebox Player|8100|/apps/|
+
