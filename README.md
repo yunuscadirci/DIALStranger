@@ -10,8 +10,8 @@ This is a research from 2019. I found protocol doesn't cover some basic security
 
 
 
-https://github.com/yunuscadirci/DIALStranger/assets/7267858/80812824-f924-4220-8ee3-6600a2955e7f 
-
+[https://github.com/yunuscadirci/DIALStranger/assets/7267858/80812824-f924-4220-8ee3-6600a2955e7f 
+](https://github.com/yunuscadirci/DIALStranger/blob/main/DIALStranger_lg_demo.mp4)
 
 
 ## Why waited 4 years
