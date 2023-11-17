@@ -1,0 +1,6 @@
+D:\DIALScanner\DIALScanner\obj\Debug\DIALScanner.csprojAssemblyReference.cache
+D:\DIALScanner\DIALScanner\obj\Debug\DIALScanner.csproj.CoreCompileInputs.cache
+D:\DIALScanner\DIALScanner\bin\Debug\DIALScanner.exe
+D:\DIALScanner\DIALScanner\bin\Debug\DIALScanner.pdb
+D:\DIALScanner\DIALScanner\obj\Debug\DIALScanner.exe
+D:\DIALScanner\DIALScanner\obj\Debug\DIALScanner.pdb
