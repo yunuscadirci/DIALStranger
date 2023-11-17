@@ -2,7 +2,7 @@
 ## What is DIAL?
 Discovery and Launch (DIAL) is a protocol co-developed by Netflix and YouTube with help from Sony and Samsung. It is used for videos to be played on TVs and other devices easily.
 
-![image](https://github.com/yunuscadirci/DIALStranger/assets/7267858/d30151af-3e32-461d-8563-7b1f229fdf58)
+![image](/dial.png)
 
 http://www.dial-multiscreen.org/dial-protocol-specification 
 ## What is vulnerability?  
