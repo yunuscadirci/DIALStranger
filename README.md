@@ -6,7 +6,7 @@ Discovery and Launch (DIAL) is a protocol co-developed by Netflix and YouTube wi
 
 http://www.dial-multiscreen.org/dial-protocol-specification 
 ## What is vulnerability?  
-This is a research from 2019. I found protocol doesn't cover some basic security features and most of TV vendors didnt implement protocol correctly. You can find details on [2019 original research]([DIAL Protocol Vulnerabilities and  Implementation Errors - 2019.pdf](https://github.com/yunuscadirci/DIALStranger/blob/main/DIAL%20Protocol%20Vulnerabilities%20and%20%20Implementation%20Errors%20-%202019.pdf) and [Blackhat MEA 2023 presentation]([/DIAL Protocol Vulnerabilities and Implementation Errors - 2019.pdf](https://github.com/yunuscadirci/DIALStranger/blob/main/BHMEA23_%20Dial%20Stranger%20v6.pdf) .
+This is a research from 2019. I found protocol doesn't cover some basic security features and most of TV vendors didnt implement protocol correctly. You can find details on [2019 original research]([DIAL Protocol Vulnerabilities and  Implementation Errors - 2019.pdf](https://github.com/yunuscadirci/DIALStranger/blob/main/DIAL%20Protocol%20Vulnerabilities%20and%20%20Implementation%20Errors%20-%202019.pdf) and [Blackhat MEA 2023 presentation](https://github.com/yunuscadirci/DIALStranger/blob/main/BHMEA23_%20Dial%20Stranger%20v6.pdf) .
 
 
 
