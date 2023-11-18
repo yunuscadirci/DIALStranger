@@ -14,7 +14,7 @@ https://github.com/yunuscadirci/DIALStranger/blob/main/DIALStranger_lg_demo.mp4
 
 
 ## Why waited 4 years
-Because of nature of protocol vulnerabilities - we saw for CallStranger CVE-2020-12695 - it takes forever to patc all the systems. I think waiting 4 years is enough for this vulnerability
+Because of nature of protocol vulnerabilities - we saw for CallStranger CVE-2020-12695 - it takes forever to patch all the systems. I think waiting 4 years is enough for this vulnerability
 ## Are we secure now?
 We are better than 2019 because:
 - Netflix updated protocol 2020 and covered some holes.
