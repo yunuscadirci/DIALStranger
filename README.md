@@ -43,6 +43,9 @@ Please share your screenshot to make this list richer
 |---|---|---|
 |LG|36866|/apps/|
 |Xbox|10247|/apps/|
+|PS5|54932|/apps/|
+|Xiomi Mibox4|8008|/apps/|
+|Hisense 65A6100EX|56789|/apps/|
 |Philips|56789|/apps/|
 |Vestel|56791|/apps/|
 |Samsung|8001|/ws/apps/|
