@@ -30,7 +30,10 @@ Absolutely no. Milions of TV's are open to Internet and by the nature of protoco
 # Tools
 ## DIAL Scanner
 Under this repository, you can find DIALScanner solution. It sends M-SEARCH SSDP Request and DIAL devices answer. Also it automatically creates a test URL
-![image](https://github.com/yunuscadirci/DIALStranger/assets/7267858/daa1c0d5-b9a1-48b1-83b2-7925306096d1)
+
+
+![image](https://github.com/yunuscadirci/DIALStranger/assets/7267858/50074780-edda-4b81-9c87-907d2bcbb6fe)
+
 
 ## DIAL CORS Tester
 You can visit http://tester.dialstranger.com/DialStranger.html  (dont use https) to test against DIAL CORS vulnerabilities. It has some presets for port and URI. If you dont know your DIAL ports and URI, use DIAL Scanner to find
